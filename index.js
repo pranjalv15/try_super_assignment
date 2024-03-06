@@ -1,5 +1,5 @@
 const express = require("express");
-const invoiceRoutes = require("./src/invoice/routes");
+const invoiceRoutes = require("./src/routes");
 
 const app = express();
 const port = 3000;
